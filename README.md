@@ -1,1 +1,5 @@
 # order.properties
+spring.application.name=order-ms
+server.port=9011
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
